@@ -6,9 +6,9 @@ Crebble is a platform to show your projects.We support the Digital Designers suc
 
 # Technology :
 
--Next.js 13
--tailwind.css
--TypeScript
+- Next.js 13
+- tailwind.css
+- TypeScript
 
 ## Getting Started
 
